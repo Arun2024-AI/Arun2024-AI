@@ -1,4 +1,9 @@
 - 👋 Hi, I’m @Arun2024-AI
+    .Artificial Intelligence
+    .Machine Learning
+    .Data Science
+    .Open-source contributions
+    .Exploring new tech and innovations
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
