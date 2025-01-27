@@ -11,8 +11,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-- Secpial Day
-
 <!---
 Arun2024-AI/Arun2024-AI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
