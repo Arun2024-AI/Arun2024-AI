@@ -1,3 +1,17 @@
+👋 About Me
+
+I'm Arun Kumar Giri, an aspiring Front-End Developer currently pursuing B.Tech in Artificial Intelligence at Newton School of Technology. I'm passionate about building responsive, user-friendly web applications and continuously improving my skills through real-world projects.
+
+💻 Tech Stack
+Languages & Tools: HTML, CSS, JavaScript, React, Python, SQL, Node.js
+Tools & Platforms: Git, GitHub, Vercel, Figma, MySQL
+
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arun-kumar-giri-54a0b7318?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:quantagiri2@gmail.com) 
+
+
 
 
 ![image](https://github.com/user-attachments/assets/dcb47b4d-761a-43bf-9fbd-d89529ce9227)
